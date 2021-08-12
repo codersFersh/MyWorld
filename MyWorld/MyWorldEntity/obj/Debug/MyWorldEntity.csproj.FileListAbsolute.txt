@@ -1,0 +1,12 @@
+F:\MyWorld\MyWorld\MyWorldEntity\bin\Debug\MyWorldEntity.dll.config
+F:\MyWorld\MyWorld\MyWorldEntity\bin\Debug\MyWorldEntity.dll
+F:\MyWorld\MyWorld\MyWorldEntity\bin\Debug\MyWorldEntity.pdb
+F:\MyWorld\MyWorld\MyWorldEntity\bin\Debug\EntityFramework.dll
+F:\MyWorld\MyWorld\MyWorldEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\MyWorld\MyWorld\MyWorldEntity\bin\Debug\EntityFramework.xml
+F:\MyWorld\MyWorld\MyWorldEntity\bin\Debug\EntityFramework.SqlServer.xml
+F:\MyWorld\MyWorld\MyWorldEntity\obj\Debug\MyWorldEntity.csprojAssemblyReference.cache
+F:\MyWorld\MyWorld\MyWorldEntity\obj\Debug\MyWorldEntity.csproj.CoreCompileInputs.cache
+F:\MyWorld\MyWorld\MyWorldEntity\obj\Debug\MyWorldEntity.csproj.CopyComplete
+F:\MyWorld\MyWorld\MyWorldEntity\obj\Debug\MyWorldEntity.dll
+F:\MyWorld\MyWorld\MyWorldEntity\obj\Debug\MyWorldEntity.pdb

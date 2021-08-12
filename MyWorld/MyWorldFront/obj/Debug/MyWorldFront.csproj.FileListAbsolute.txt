@@ -1,0 +1,2 @@
+F:\MyWorld\MyWorld\MyWorldFront\obj\Debug\MyWorldFront.csprojAssemblyReference.cache
+F:\MyWorld\MyWorld\MyWorldFront\obj\Debug\MyWorldFront.csproj.CoreCompileInputs.cache
