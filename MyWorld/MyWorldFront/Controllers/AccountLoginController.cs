@@ -1,5 +1,5 @@
 ﻿using MyWorldEntity;
-using MyWorldFront.ViewModels.MyWorldFront.ViewModels;
+using MyWorldManagement.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,9 +7,9 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Security;
 
-namespace MyWorldFront.Controllers
+namespace MyWorldManagement.Controllers
 {
-    public class LoginsController : Controller
+    public class AccountLoginController : Controller
     {
         // GET: Login
 
@@ -63,16 +63,20 @@ namespace MyWorldFront.Controllers
             return View();
         }
 
+       
 
+        //注销 log off
 
+        public ActionResult LoginOut()
+        {
+            FormsAuthentication.SignOut(); //删除浏览器的Forms身份验证。
 
+            //删除session中的登录用户名
+            Session.Remove("loginUserName");
 
-
-
-
-
-
-
+            return Content("<script>alert('账户注销成功');location.href='" + Url.Action("Login", "") + "';</script>");
+        }
+        
 
 
 

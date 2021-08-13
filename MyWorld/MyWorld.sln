@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWorldFront", "MyWorldFront\MyWorldFront.csproj", "{E4C9DB71-330A-4C4C-A971-AB2B1BCD4AB1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWorldManagement", "MyWorldFront\MyWorldManagement.csproj", "{E4C9DB71-330A-4C4C-A971-AB2B1BCD4AB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWorldEntity", "MyWorldEntity\MyWorldEntity.csproj", "{1CB0FCF6-4B1F-48A0-8959-56A8447E4DD7}"
 EndProject

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace MyWorldFront.ViewModels
+namespace MyWorldManagement.ViewModels
 {
     public class AddUserVM
     {
