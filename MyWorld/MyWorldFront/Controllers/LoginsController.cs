@@ -76,9 +76,6 @@ namespace MyWorldFront.Controllers
 
 
 
-
-
-
         [NonAction]
         private bool ValidataUser(AdminLoginVM model)
         {
